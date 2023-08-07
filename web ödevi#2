@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İlk Web Sayfam</title>
+</head>
+<body>
+    <h1>Umut İleri</h1>
+    <h2>Hakkımda</h2>
+    <p>Merhaba. Ben Umut İleri. Orta Doğu Teknik Üniversitesin'de BÖTE bölümünde okumaktayım. Web geliştirmeye oldukça ilgiliyim ve kendimi geliştirmek istiyorum.
+    </p><br>
+    <h3>Sevdiğim Filmler</h3>
+    <ol>
+        <li><h4>INTERSTELLAR</h></li>
+            <a href="https://www.imdb.com/title/tt0816692/"><p>IMBD linki için tıkla!</P></a>
+                <img src="1200x675mf.jpg" width="300px">
+                <p>When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.
+                </p>
+        <li><h4>TENET</h></li>
+            <a href="https://www.imdb.com/title/tt6723592/"><p>IMBD linki için tıkla</p></a>
+    </ol>
+</body>
+</html>
