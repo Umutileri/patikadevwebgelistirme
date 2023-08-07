@@ -1,0 +1,2 @@
+# patikadevwebgelistirme
+Web geliştirme ödevleri
