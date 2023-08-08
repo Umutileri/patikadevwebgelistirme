@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pirinç Pilavı Tarifi</title>
+</head>
+<body style="background-color: rgb(229, 174, 57)">
+    <h1 style="color: red;"><bold>Kolay Yapılabilen Pirinç Pilavı Tarifi</bold></h1>
+    <p>Tane tane dökülen pirinç pilavı yapmak çoğu kişinin gönlünden geçer ama sonuç bazen hüsran olabiliyor. <br>Çok az yapım aşaması olmasına ve kısacık sürede hazırlanabilmesine rağmen pilav yapmak deneyim <br>gerektiren bir işlem. Ben size bu tarifim ile pilav yapmanın tüm detaylarını ve püf noktaları yazmaya çalıştım.</p>
+    <h4>Tarif:Umut İleri</h4><br>
+    <div style="padding-left: 5%;">
+    <h2 style="align-items: center; color: red;">Pirinç Pilavı Tarifi İçin Malzemeler:</h2>
+    <ul>
+        <li>2 su bardağı pirinç</li>
+        <li>2,5 su bardağı sıcak su</li>
+        <li>3 yemek kaşığı tereyağı</li>
+        <li>1 yemek kaşığı sıvı yağ</li>
+        <li>Tuz</li>
+    </ul>
+</div>
+    <div style="padding-left: 5%;">
+        <h2 style="align-items: center; color: red;">Pirinç Pilavı Tarifi Nasıl Yapılır?</h2>
+        <ol>
+            <li>Pirinci bol su ile yıkayın. Uygun bir kaba alarak üzerini geçecek kadar ılık su ekleyin. Birazda tuz ilave edip karıştırın ve 15-20 dakika bekletin. Daha sonra yıkayarak suyunu süzün. Nişastası gidene kadar yıkıyoruz. Çıkan suyun berrak olması gerekiyor.</li>
+            <li>Tencerede tereyağını eritip suyu süzülmüş pirinci ekleyin ve 4-5 dakika kadar kavurun. Pirinçlerin yeteri kadar kavrulduğunu pirinler tane tane dökülmeye başladığında anlayabilirsiniz.</li>
+            <li>Pirinçler kavrulduktan sonra sıcak su veya sıcak et suyunu ekleyelim. İsterseniz yarım tavuk suyu yarım sıcak su kullanabilirsiniz. Tavuk suyunuz yağlı ise bu şekilde su ile karıştırmanızı tavsiye ederim ancak yağlı değilse tamamı tavuk suyu ile çok daha lezzetli olacaktır.</li>
+            <li>Son olarak tuzu ekleyin.</li>
+            <li>Pilavımızı kapağı kapalı bir şekilde önce yüksek ateşte pişmeye bırakalım.</li>
+            <li>Üzeri göz göz olduğunda yani üzerindeki suyu çekip pilavın üzerinde nokta nokta delikler oluştuğunda kısık ateşe alalım.  Pirinçler yumuşayıp suyu tamamen çekene kadar pişirelim.</li>
+            <li>Pişen pilavımızı ocaktan aldıktan sonra üzerine havlu peçete sererek kapağını tekrar kapatalım.</li>
+            <li>Pilavı 10-15 dk. dinlendirelim. Daha sonra tahta kaşık ile karıştırarak servis yapabilirsiniz.</li>
+
+        </ol>
+    </div>
+<br>
+    <h2 style="color: blueviolet; padding-left: 70%;">Afiyet Olsun...</h2>
+
+</body>
+</html>
